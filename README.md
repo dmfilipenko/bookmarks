@@ -1,6 +1,5 @@
-# bookmarks
-My Personal bookmarks list
-##DATA Science
+
+#DATA Science
 
 ### Articles
 
