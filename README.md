@@ -11,6 +11,6 @@
 - [ ] http://www.drivendata.org/
 - [ ] https://www.kaggle.com/
 - [ ] https://archive.ics.uci.edu/ml/datasets.html
-- 
+
 ###Courses
 - [ ] https://github.com/justmarkham/DAT7
