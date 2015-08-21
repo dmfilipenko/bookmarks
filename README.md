@@ -1,5 +1,5 @@
 
-#DATA Science
+#Data Science
 
 ### Articles
 
