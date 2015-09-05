@@ -14,3 +14,6 @@
 
 ###Courses
 - [ ] https://github.com/justmarkham/DAT7
+
+###MATH
+- [ ] http://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf
